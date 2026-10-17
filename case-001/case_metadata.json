@@ -1,0 +1,17 @@
+{
+  "case_id": "DFIR-2026-001",
+  "case_name": "Simulated Linux Workstation Compromise",
+  "case_type": "Digital Forensics and Incident Response",
+  "analyst": "Rahat Ahmed",
+  "environment": "Ubuntu VirtualBox lab",
+  "evidence_type": "Synthetic training artifacts",
+  "status": "Open",
+  "objectives": [
+    "Preserve evidence and verify its integrity",
+    "Reconstruct the incident timeline",
+    "Identify suspicious activity",
+    "Document findings and limitations",
+    "Recommend remediation"
+  ],
+  "note": "This is a fictional training case, not a real incident."
+}

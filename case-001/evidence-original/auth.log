@@ -1,0 +1,3 @@
+2026-10-17T09:14:03Z sshd[2410]: Accepted password for analyst from 203.0.113.77 port 51220 ssh2
+2026-10-17T09:16:41Z sudo[2442]: analyst : TTY=pts/0 ; USER=root ; COMMAND=/usr/bin/id
+2026-10-17T09:18:12Z sshd[2460]: Failed password for invalid user backup from 203.0.113.77 port 51226 ssh2

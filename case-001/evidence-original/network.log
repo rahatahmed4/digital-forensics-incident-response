@@ -1,0 +1,2 @@
+2026-10-17T09:17:08Z host=workstation-01 event=outbound_connection destination=198.51.100.24 port=443 process_pid=2501
+2026-10-17T09:19:15Z host=workstation-01 event=outbound_connection destination=198.51.100.24 port=443 process_pid=2518
